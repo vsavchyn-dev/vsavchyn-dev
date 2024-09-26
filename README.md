@@ -2,10 +2,11 @@ Hi there 👋 I'm Vlad
 ====================
 
 Creating apps on C/C++ and Java. Also, writing web-based applications on JavaScript with React.
-* 🌍 Based in Toronto, ON
-* 🧠 Currenltly learning Unreal Engine 5 and Game Engine Fundamentals
-* 🧑‍💻 See my portfolio at [vsavchyn-portfolio.netlify.app](http://vsavchyn-portfolio.netlify.app)
-* ⚡ Fun fact: Climbed to the top of Howerla mountain at 12
+* 🌍 Based in Toronto, ON.
+* 🧠 Currenltly learning Unreal Engine 5 and Game Engine Fundamentals.
+* 🧑‍💻 You can see my projects [here](http://vsavchyn-portfolio.netlify.app).
+* 📝 Sometimes I write in my [blog](https://vsavchyndev.wordpress.com)!
+* ⛰️ Fun fact: Climbed to the top of Howerla mountain at 12.
 
 ### Skills
 
@@ -38,11 +39,4 @@ Creating apps on C/C++ and Java. Also, writing web-based applications on JavaScr
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
-
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/vsavchyn-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.linkedin.com/in/vsavchyn-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
