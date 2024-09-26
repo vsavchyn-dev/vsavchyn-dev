@@ -1,9 +1,6 @@
 Hi there 👋 I'm Vlad
 ====================
 
-Developer. Learner. Gamer.
---------------------------
-
 Creating apps on C/C++ and Java. Also, writing web-based applications on JavaScript with React.
 * 🌍 Based in Toronto, ON
 * 🧠 Currenltly learning Unreal Engine 5 and Game Engine Fundamentals
