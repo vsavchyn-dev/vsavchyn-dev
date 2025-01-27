@@ -3,7 +3,7 @@ Hi there 👋 I'm Vlad
 
 Creating apps on C/C++ and Java. Also, writing web-based applications on JavaScript with React.
 * 🌍 Based in Toronto, ON.
-* 🧠 Currenltly learning Unreal Engine 5 and Game Engine Fundamentals.
+* 🧠 Currenltly learning Unity, C#, and Image Processing.
 * 🧑‍💻 You can see my projects [here](http://vsavchyn-portfolio.netlify.app).
 * 📝 Sometimes I write in my [blog](https://vsavchyndev.wordpress.com)!
 * ⛰️ Fun fact: Climbed to the top of Howerla mountain at 12.
